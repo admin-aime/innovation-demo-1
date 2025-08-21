@@ -1,0 +1,12 @@
+{
+  "id": "aime_1755786925715_x7vtxkxx4",
+  "name": "AIME Development Session",
+  "createdAt": "2025-08-21T14:35:25.733Z",
+  "updatedAt": "2025-08-21T14:35:25.733Z",
+  "conversation": [],
+  "rules": "# Project Rules\n\nThis project uses AIME for development assistance with automatic state tracking.\n\n## Current Plan and TODOs\n\n### Plan\nNo active plan yet. Plan will be created when you start working on tasks.\n\n### TODOs\nNo active TODOs yet. TODOs will be added when you start working on tasks.\n\n# Lessons Learned\n\n## User Specified Lessons\n(No lessons documented yet)\n\n## AIME Learned  \n(No lessons documented yet)\n\n# Scratchpad\n\n## Current Task\nProject initialized - ready for development tasks\n\n## Progress\n[X] Project setup complete\n[ ] Waiting for first development task\n\n## Notes\n- Project uses AIME for AI-assisted development\n- All project state is automatically tracked\n- Conversation history is preserved across sessions\n\n## Next Steps\n- Start working on your development goals\n- Project state will be automatically maintained\n",
+  "summary": "",
+  "scratchpad": "",
+  "todos": [],
+  "lessons": []
+}
