@@ -5,24 +5,29 @@ This project uses AIME for development assistance with automatic state tracking.
 ## Current Plan and TODOs
 
 ### Plan
-## Plan for Sample HTML Page
+## Plan for Dark Mode Implementation
 
   ### Approach:
-  - Set up a basic web project using Vite
-  - Create a simple, clean HTML page
-  - Add some basic styling and structure
+  - Update CSS to support dark mode
+  - Add dark mode color scheme
+  - Implement a dark mode toggle
+  - Enhance user experience with theme switching
 
   ### TODOs:
-  [ ] Create package.json with Vite
-  [ ] Create index.html with basic content
-  [ ] Add a simple CSS file
-  [ ] Set up Vite dev server
+  [ ] Modify styles.css for dark mode
+  [ ] Add JavaScript for theme toggling
+  [ ] Update HTML to include theme switch
+  [ ] Test theme switching functionality
 
 ### TODOs
 [ ] Create package.json with Vite
 [ ] Create index.html with basic content
 [ ] Add a simple CSS file
 [ ] Set up Vite dev server
+[ ] Modify styles.css for dark mode
+[ ] Add JavaScript for theme toggling
+[ ] Update HTML to include theme switch
+[ ] Test theme switching functionality
 
 # Lessons Learned
 
